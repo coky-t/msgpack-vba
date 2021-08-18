@@ -49,7 +49,7 @@ Dictionary                 | Map          | map format family (fixmap or map 16/
 
 VBA types                  | source types | output format
 -------------------------- | ------------ | ------------------------------------------------------------------------------------
--                          | Integer      | uint 64
+(none)                     | Integer      | uint 64
 
 ## Deserialization: format to type conversion
 
