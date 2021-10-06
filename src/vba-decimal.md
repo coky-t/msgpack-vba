@@ -2,14 +2,14 @@
 
 ## Reference
 
-https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary
-https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/variant-data-type
-https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/decimal-data-type
-https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/vartype-function
+- https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary
+- https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/variant-data-type
+- https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/decimal-data-type
+- https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/vartype-function
 
-https://bytecomb.com/vba-internals-whats-in-a-variable/
-https://bytecomb.com/vba-internals-decimal-variables-and-pointers-in-depth/
-https://carolomeetsbarolo.wordpress.com/2014/06/09/the-decimal-data-sub-type-in-xl-vba/
+- https://bytecomb.com/vba-internals-whats-in-a-variable/
+- https://bytecomb.com/vba-internals-decimal-variables-and-pointers-in-depth/
+- https://carolomeetsbarolo.wordpress.com/2014/06/09/the-decimal-data-sub-type-in-xl-vba/
 
 ## Variant (Numeric) format
 
